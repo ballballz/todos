@@ -1,0 +1,33 @@
+.App{
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.form-add{
+  margin-top: 10px;
+}
+
+.title input{
+  margin-right: 10px;
+}
+
+.list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+}
+
+.title{
+  font-size: 30px;
+}
+
+button{
+  margin-top: 10px;
+  padding: 8px;
+}
+
+.box{
+  margin-top: 10px;
+}
